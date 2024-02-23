@@ -1,2 +1,5 @@
-# hello-world
-this repository id for practicsing the GitHub Flow
+hello world
+hie guys
+this is ranga parimi
+i love to gym
+bye......
